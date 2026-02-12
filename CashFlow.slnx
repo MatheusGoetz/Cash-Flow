@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="CashFlow.Infrastructure/CashFlow.Infrastructure.csproj" Id="2f0d4dfd-baa3-42b0-a70c-4fd88835dbed" />
+    <Project Path="src/CashFlow.Api/CashFlow.Api.csproj" Id="80c96881-55cd-40c0-a3d6-e12dbff79022" />
+    <Project Path="src/CashFlow.Application/CashFlow.Application.csproj" Id="25c7ddeb-d969-494f-9974-43ac5dc88a85" />
+    <Project Path="src/CashFlow.Communication/CashFlow.Communication.csproj" Id="ccbbbe27-dfad-4a25-97e0-46490bd033b9" />
+    <Project Path="src/CashFlow.Domain/CashFlow.Domain.csproj" Id="3a2fa242-06c2-4997-8ba9-7d816687e6e1" />
+    <Project Path="src/CashFlow.Exception/CashFlow.Exception.csproj" Id="d6a1af0b-cf52-4526-b9e8-466a5c07dcfa" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
