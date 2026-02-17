@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CCBBBE27-DFAD-4A25-97E0-46490BD033B9}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|c:\\users\\mathe\\estudos\\forma\u00E7\u00E3o c-sharp\\cashflow\\src\\cashflow.communication\\responses\\responseregisteredexpensejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCBBBE27-DFAD-4A25-97E0-46490BD033B9}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|solutionrelative:src\\cashflow.communication\\responses\\responseregisteredexpensejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C7DDEB-D969-494F-9974-43AC5DC88A85}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\mathe\\estudos\\forma\u00E7\u00E3o c-sharp\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C7DDEB-D969-494F-9974-43AC5DC88A85}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80C96881-55CD-40C0-A3D6-E12DBFF79022}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\mathe\\estudos\\forma\u00E7\u00E3o c-sharp\\cashflow\\src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80C96881-55CD-40C0-A3D6-E12DBFF79022}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,45 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ResponseRegisteredExpenseJson.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Communication\\Responses\\ResponseRegisteredExpenseJson.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Communication\\Responses\\ResponseRegisteredExpenseJson.cs",
-              "ToolTip": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Communication\\Responses\\ResponseRegisteredExpenseJson.cs",
-              "RelativeToolTip": "src\\CashFlow.Communication\\Responses\\ResponseRegisteredExpenseJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T22:50:26.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterExpenseUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "ToolTip": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T22:48:33.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExpensesController.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "ToolTip": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "RelativeToolTip": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T22:32:10.849Z",
-              "EditorCaption": ""
             }
           ]
         }
