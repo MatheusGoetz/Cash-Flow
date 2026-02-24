@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80C96881-55CD-40C0-A3D6-E12DBFF79022}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\mathe\\estudos\\forma\u00E7\u00E3o c-sharp\\cashflow\\src\\cashflow.api\\middleware\\culturemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80C96881-55CD-40C0-A3D6-E12DBFF79022}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\middleware\\culturemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE738CA6-16AE-41AB-891F-50FA9794C41D}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\users\\mathe\\estudos\\forma\u00E7\u00E3o c-sharp\\cashflow\\tests\\validators.tests\\expenses\\register\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE738CA6-16AE-41AB-891F-50FA9794C41D}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\expenses\\register\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80C96881-55CD-40C0-A3D6-E12DBFF79022}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\mathe\\estudos\\forma\u00E7\u00E3o c-sharp\\cashflow\\src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80C96881-55CD-40C0-A3D6-E12DBFF79022}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C7DDEB-D969-494F-9974-43AC5DC88A85}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\mathe\\estudos\\forma\u00E7\u00E3o c-sharp\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7DDEB-D969-494F-9974-43AC5DC88A85}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80C96881-55CD-40C0-A3D6-E12DBFF79022}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\mathe\\estudos\\forma\u00E7\u00E3o c-sharp\\cashflow\\src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80C96881-55CD-40C0-A3D6-E12DBFF79022}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C7DDEB-D969-494F-9974-43AC5DC88A85}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\mathe\\estudos\\forma\u00E7\u00E3o c-sharp\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7DDEB-D969-494F-9974-43AC5DC88A85}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,40 +43,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Api\\Program.cs",
-              "RelativeToolTip": "src\\CashFlow.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "RegisterExpenseUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ToolTip": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T18:41:41.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExpensesController.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "ToolTip": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "RelativeToolTip": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T19:21:23.203Z",
+              "WhenOpened": "2026-02-23T22:24:41.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CultureMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Api\\Middleware\\CultureMiddleware.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Middleware\\CultureMiddleware.cs",
-              "ToolTip": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Api\\Middleware\\CultureMiddleware.cs",
-              "RelativeToolTip": "src\\CashFlow.Api\\Middleware\\CultureMiddleware.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAAA8AAAAAAAAAA==",
+              "Title": "RegisterExpenseValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
+              "RelativeDocumentMoniker": "tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
+              "ToolTip": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
+              "RelativeToolTip": "tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T19:12:44.361Z",
+              "WhenOpened": "2026-02-23T22:20:21.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterExpenseValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "ToolTip": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:19:04.377Z",
               "EditorCaption": ""
             }
           ]
